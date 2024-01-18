@@ -1,0 +1,32 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container-modulo,
+.container-modulo1,
+.container-modulo2{
+    display: grid;
+}
+
+input{
+    margin: 50px 50px;
+    padding: 5px;
+}
+
+.boton{
+text-align: center;
+}
+
+button{
+    padding: 8px
+}
